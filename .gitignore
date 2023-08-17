@@ -1,0 +1,8 @@
+# .gitignore
+
+.*
+!.gitignore
+!.editorconfig
+!.scripts
+
+**/*.o
